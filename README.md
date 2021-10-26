@@ -8,5 +8,5 @@
 </a>
    
 #### Hi there 👋 I'm Backend Developer.
-I'm interested in PHP, Laravel and Javascript 
+I'm interested in PHP, Laravel and Javascript.. 
 
