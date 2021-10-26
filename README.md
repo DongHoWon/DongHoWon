@@ -7,6 +7,6 @@
   <img src=https://img.shields.io/badge/Blog-ed8151?&style=for-the-badge&logo=Blogger&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
  
-#### Hi there 👋 I'm Backend Developer. 
+#### Hi there 👋 I'm Backend Developer.  
 I'm interested in PHP, Laravel and Javascript 
 
